@@ -5,7 +5,9 @@ This is ndex file header 1 text
 This is under index header 5
 
 
+```
 $ git init
+```
 
 ``` C
 funciton c(aa)
